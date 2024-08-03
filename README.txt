@@ -1,3 +1,5 @@
+Eğer SSHClient için yeni özellik fikirleriniz varsa, bana memirhansumer@gmail.com e-posta adresinden ulaşabilirsiniz.
+
 SSHClient, SSH erişimi bulunmayan bilgisayarlar için SSH bağlantısı sağlayan bir komut istemcisi uygulamasıdır. Bu araç, ağ üzerinden uzak sistemlere erişim sağlamak için SSH protokolünü kullanarak komutları çalıştırmanıza olanak tanır. Proje, çeşitli uzak sistemlerde komut yürütme ve dizin yönetimi gibi işlevleri destekler.
 
 Özellikler:
